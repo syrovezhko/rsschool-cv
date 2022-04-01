@@ -56,6 +56,9 @@ Dec 2014 - Nov 2015
 Jul 2014 - Aug 2014
 
 ### Junior Dev Experience
+* Django base educational [platform](https://github.com/syrovezhko/platform)
+* First [website](https://github.com/syrovezhko/bootstrap_4_test) for my computer science clubs
+* First vue.js study [project](https://github.com/syrovezhko/tab-tracker)
 
 ### Education
 
@@ -69,6 +72,6 @@ Sep 2021 - Dec 2021
 
 ### Languages
 
-* Russian
-* English
-* Chinise
+* Russian - native
+* English - B2
+* Chinise - A0
