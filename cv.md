@@ -23,13 +23,13 @@ I've choosed that way because I have wanted to help people. It's started like ai
 ### Code Example
     // add screen function
     function addScreen(id, direction) {
-    let arrow;
-    if (direction > 0) arrow = '🠕';
-    else arrow = '🠗';
-    let screen = document.createElement("div");
-    screen.innerHTML = `${arrow} ${id}`;
-    screen.className = "screen";
-    nextStopScreen.appendChild(screen);
+      let arrow;
+      if (direction > 0) arrow = '🠕';
+      else arrow = '🠗';
+      let screen = document.createElement("div");
+      screen.innerHTML = `${arrow} ${id}`;
+      screen.className = "screen";
+      nextStopScreen.appendChild(screen);
     }
 
 ### Experience
