@@ -55,8 +55,20 @@ Dec 2014 - Nov 2015
 ***JSC “Saturn”***  
 Jul 2014 - Aug 2014
 
+### Junior Dev Experience
+
 ### Education
+
+* **Moscow Aviation Institute (National Research University)**  
+***Engineer's degree (Helicopter and Aircraft engineering)***  
+Sep 2012 - Jan 2018
+
+* **Bauman Moscow State Technical University**  
+***further training (AI: theory and methodology of teaching in basic school)***  
+Sep 2021 - Dec 2021
 
 ### Languages
 
-### English
+* Russian
+* English
+* Chinise
