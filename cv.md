@@ -35,6 +35,26 @@ I've choosed that way because I have wanted to help people. It's started like ai
 
 ### Experience
 
+* **Computer Science and Mechanical Engineering Teacher**  
+***School №1288, Moscow***  
+Sep 2019 - Present
+
+* **Robotic teacher**  
+***ГБОУ ДО ЦДТ "Строгино"***  
+Sep 2017 - Sep 2019
+
+* **Design Engineer**  
+***Ilyushin Aviation Complex***  
+Nov 2016 - Sep 2018
+
+* **Technician Designer**  
+***RUSSIAN AIRCRAFT CORPORATION MiG***  
+Dec 2014 - Nov 2015
+
+* **Technician Designer**  
+***JSC “Saturn”***  
+Jul 2014 - Aug 2014
+
 ### Education
 
 ### Languages
